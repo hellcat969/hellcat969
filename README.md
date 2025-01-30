@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarmad Imran</h1>
-<h3 align="center">A passionate AI Engineer from Pakistan</h3>
+<h3 align="center">A passionate AI Developer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellcat969" alt="hellcat969" /></a> </p>
 
