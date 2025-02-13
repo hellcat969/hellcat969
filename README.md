@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hellcat969" alt="hellcat969" /></a> </p>
 
-- 🔭 I’m currently working on [Heart Predictor AI](https://quackex.com)
+- 🔭 I’m currently working on [Quackex Heart Predictor AI](https://quackex.com)
 
 - 🌱 I’m currently learning **Deep Learning**
 
