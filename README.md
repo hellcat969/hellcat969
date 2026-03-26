@@ -28,7 +28,7 @@ Spectres fixes that:
 
 ### Connect
 
-- 🌐 [spectres.xyz](https://spectres.pro)
+- 🌐 [spectres.pro](https://spectres.pro)
 - 🐦 [Twitter / X](https://x.com/sarmadimran_co)
 - 💼 [Instagram](https://www.instagram.com/im.sarmadhq/)
 
