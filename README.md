@@ -95,7 +95,7 @@ This project is proprietary. All rights reserved.
 
 📸 **Instagram:** [Spectres Pro](https://www.instagram.com/spectrespro.pk/)
 
-▶️ **YouTube:** https://youtube.com/@yourchannel
+▶️ **YouTube:** [Spectres Pro](www.youtube.com/@Spectrespro)
 
 📧 **Business Email:** support@spectres.pro
 📧 **Personal Email:** sarmad@spectres.pro
