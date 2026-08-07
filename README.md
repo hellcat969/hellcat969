@@ -1,4 +1,23 @@
-# Specters
+# Hi, I'm Sarmad Imran 👋
+
+**Data Scientist • Full-Stack Developer • AI Builder • Founder of Specters**
+
+I hold an undergraduate degree in **B.S. Data Science** and have **5+ years of experience** building software products and AI-powered solutions. My work combines **Data Science, Machine Learning, Artificial Intelligence, and Modern Web Development** to create products that solve real-world business problems.
+
+I specialize in:
+- 🤖 AI & Machine Learning
+- 📊 Predictive Modeling & Data Analysis
+- 🧠 AI Model Training
+- ⚡ Python
+- 🌐 Next.js, React.js
+- 🎯 Django Framework
+- 💻 JavaScript & TypeScript
+- 🚀 SaaS Product Development
+
+## 🚀 Featured Project — Specters
+
+
+# All About Specters
 
 > **The Complete Freelance CRM for Pakistani Freelancers**
 
