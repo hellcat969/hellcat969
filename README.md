@@ -2,7 +2,7 @@
 
 **Data Scientist • Full-Stack Developer • AI Builder • Founder of Specters**
 
-I hold an undergraduate degree in **B.S. Data Science** and have **5+ years of experience** building software products and AI-powered solutions. My work combines **Data Science, Machine Learning, Artificial Intelligence, and Modern Web Development** to create products that solve real-world business problems.
+I hold an undergraduate degree in **B.S. Data Science** and have **4+ years of experience** building software products and AI-powered solutions. My work combines **Data Science, Machine Learning, Artificial Intelligence, and Modern Web Development** to create products that solve real-world business problems.
 
 I specialize in:
 - 🤖 AI & Machine Learning
