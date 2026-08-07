@@ -88,3 +88,14 @@ Feedback, feature requests, and contributions are always welcome.
 ## 📄 License
 
 This project is proprietary. All rights reserved.
+
+## 🌐 Connect With Me
+
+🌍 **Website:** https://spectres.pro
+
+📸 **Instagram:** [Spectres Pro](https://www.instagram.com/spectrespro.pk/)
+
+▶️ **YouTube:** https://youtube.com/@yourchannel
+
+📧 **Business Email:** support@spectres.pro
+📧 **Personal Email:** sarmad@spectres.pro
