@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarmad Imran (wahmaā
+# 👋 Hi, I'm Sarmad Imran (wahmā)
 
 ### Data Scientist • Full-Stack Developer • AI Builder • Founder of Spectres
 
@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm **Sarmad Imran (wahmaā)**, a Data Scientist, Full-Stack Developer, AI Builder, and the founder of [Spectres](https://www.spectres.pro/).
+I'm **Sarmad Imran (wahmā)**, a Data Scientist, Full-Stack Developer, AI Builder, and the founder of [Spectres](https://www.spectres.pro/).
 
 I'm currently pursuing a **four-year Bachelor of Science in Data Science at Emerson University Multan, Pakistan**, where I'm developing my expertise in data science, machine learning, artificial intelligence, and software engineering.
 
