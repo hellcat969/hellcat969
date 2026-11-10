@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm **Sarmad Imran**, a Data Scientist, Full-Stack Developer, AI Builder, and the founder of [Spectres](https://www.spectres.pro/).
+I'm **Sarmad Imran (wahmaā)**, a Data Scientist, Full-Stack Developer, AI Builder, and the founder of [Spectres](https://www.spectres.pro/).
 
 I'm currently pursuing a **four-year Bachelor of Science in Data Science at Emerson University Multan, Pakistan**, where I'm developing my expertise in data science, machine learning, artificial intelligence, and software engineering.
 
@@ -100,11 +100,11 @@ I'm passionate about building technology that solves real problems rather than s
 
 ## 💼 What Is Spectres?
 
-**[Spectres](https://www.spectres.pro/) is an all-in-one freelancer and small-agency management SaaS platform** that helps professionals manage their business, clients, projects, finances, teams, and productivity from one centralized dashboard.
+**[Spectres](https://www.spectres.pro/) is an all-in-one freelancer and agency management SaaS platform** that helps professionals manage their business, clients, projects, finances, teams, and productivity from one centralized dashboard.
 
 I built Spectres after experiencing the challenges of managing freelance work across multiple disconnected tools.
 
-My vision is to give freelancers and small agencies a more organized, professional, and efficient way to manage their businesses.
+My vision is to give freelancers and agencies a more organized, professional, and efficient way to manage their businesses.
 
 Instead of switching between different applications, users can bring their essential business workflows together in one place.
 
