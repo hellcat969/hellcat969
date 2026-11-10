@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sarmad Imran
+# 👋 Hi, I'm Sarmad Imran (wahmaā
 
 ### Data Scientist • Full-Stack Developer • AI Builder • Founder of Spectres
 
