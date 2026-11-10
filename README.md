@@ -210,7 +210,7 @@ Have an idea, project, or business challenge?
   <a href="https://wa.me/923027390994">
     <img src="https://img.shields.io/badge/WhatsApp-Let's_Talk-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contact me on WhatsApp" />
   </a>
-  <a href="https://x.com/sarmad_spectres">
+  <a href="https://x.com/sarmad_wahma">
     <img src="https://img.shields.io/badge/Twitter%2FX-Connect_with_Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="Connect on X" />
   </a>
 </p>
@@ -225,8 +225,8 @@ I'm always interested in connecting with developers, founders, business owners, 
   <a href="https://www.spectres.pro/">
     <img src="https://img.shields.io/badge/Website-Spectres.pro-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
-  <a href="https://x.com/sarmad_spectres">
-    <img src="https://img.shields.io/badge/Twitter%2FX-@sarmad__spectres-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X" />
+  <a href="https://x.com/sarmad_wahma">
+    <img src="https://img.shields.io/badge/Twitter%2FX-@sarmad__wahma-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter X" />
   </a>
   <a href="https://www.threads.com/@spectrespro">
     <img src="https://img.shields.io/badge/Threads-@spectrespro-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" />
@@ -245,30 +245,6 @@ I'm always interested in connecting with developers, founders, business owners, 
 - **Business Email:** [support@spectres.pro](mailto:support@spectres.pro)
 - **Personal Email:** [sarmad@spectres.pro](mailto:sarmad@spectres.pro)
 - **Website:** [www.spectres.pro](https://www.spectres.pro/)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarmad-spectres&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarmad-spectres&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarmad-spectres&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sarmad-spectres/sarmad-spectres/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</p>
 
 ---
 
@@ -322,4 +298,30 @@ I'm open to discussing:
 <p align="center">
   <img src="https://img.shields.io/badge/Made_with-❤️-red?style=flat-square" alt="Made with love" />
   <img src="https://img.shields.io/badge/Powered_by-Curiosity-6366F1?style=flat-square" alt="Powered by curiosity" />
+</p>
+
+<!-- ===================== ANIMATED CONTACT CTA ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=4&section=header" width="100%" alt="divider" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=22C55E&center=true&vCenter=true&width=800&height=60&lines=Got+an+idea%3F+Let%27s+build+it+together+%F0%9F%9A%80;Need+a+developer+for+your+project%3F+%F0%9F%92%BB;Want+to+add+AI+to+your+product%3F+%F0%9F%A4%96;Send+me+a+message+on+WhatsApp+%F0%9F%93%B2;Your+next+big+product+starts+with+a+hello+%F0%9F%91%8B" alt="Contact CTA Typing Animation" />
+</p>
+
+<p align="center">
+  <a href="https://wa.me/923027390994">
+    <img src="https://img.shields.io/badge/%F0%9F%92%AC_MESSAGE_ME_NOW-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Message me on WhatsApp" />
+  </a>
+  <a href="mailto:sarmad@spectres.pro">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A7_EMAIL_ME-sarmad@spectres.pro-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
+  </a>
+  <a href="https://x.com/sarmad_wahma">
+    <img src="https://img.shields.io/badge/%F0%9F%90%A6_DM_ME-on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="DM me on X" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Let%27s%20Build%20Something%20Together&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Click%20a%20button%20above%20%E2%80%94%20I%20reply%20fast%20%F0%9F%9A%80&descSize=18&descAlignY=58" width="100%" alt="Let's Build Something Together" />
 </p>
