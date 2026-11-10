@@ -313,7 +313,7 @@ I'm open to discussing:
   Let's connect, collaborate, and build something meaningful.
   <br /><br />
   <a href="https://www.spectres.pro/">Spectres</a> •
-  <a href="https://x.com/sarmad_spectres">Twitter/X</a> •
+  <a href="https://x.com/sarmad_wahma">Twitter/X</a> •
   <a href="https://www.threads.com/@spectrespro">Threads</a> •
   <a href="https://www.instagram.com/spectrespro/">Instagram</a> •
   <a href="https://www.youtube.com/@Spectrespro">YouTube</a>
